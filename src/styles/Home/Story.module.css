@@ -1,0 +1,20 @@
+.bigcontainer{
+    padding: 100px 20%;
+    display: flex;
+    justify-content: center;
+    gap: 8%;
+}
+.artistimg{
+    width: 20vw;
+    height: 400px;
+    object-fit: cover;
+}
+.heading{
+    font-family: "Merriweather", serif;
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+.text{
+    font-size: 1.2rem;
+    font-weight: 300;
+}
